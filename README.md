@@ -3,15 +3,15 @@
 This Power BI dashboard project analyzes a fictional pizza sales dataset to uncover trends, performance insights, and revenue drivers. The interactive dashboard offers clear, data-driven insights for decision-making, helping stakeholders understand customer behavior, top-performing pizzas, and sales patterns.
 
 ## 🎯 Objective
-• To visualize and analyze pizza sales trends, customer order behavior, and ingredient usage.
-• To identify best-selling pizzas, optimal order times, and pricing strategies.
-• To build a multi-page connected Power BI dashboard with visually engaging and business-relevant insights.
+• To visualize and analyze pizza sales trends, customer order behavior, and ingredient usage.<br>
+• To identify best-selling pizzas, optimal order times, and pricing strategies.<br>
+• To build a multi-page connected Power BI dashboard with visually engaging and business-relevant insights.<br>
 
 ## 📂 About the Dataset
-The dataset contains pizza sales data and includes:
-• Order details, pizza names, and pricing information
-• Pizza sizes, categories, and ingredients used
-• Quantity sold, revenue generated, and time-based trends (date & time)
+The dataset contains pizza sales data and includes:<br>
+• Order details, pizza names, and pricing information<br>
+• Pizza sizes, categories, and ingredients used<br>
+• Quantity sold, revenue generated, and time-based trends (date & time)<br>
 
 ## 🔍 Recommended Analysis
 • How has the total revenue trended over time?<br>
@@ -41,20 +41,20 @@ The dataset contains pizza sales data and includes:
 ![Image 3](https://github.com/user-attachments/assets/ea489902-6153-4cbf-8e30-af06869476d9)
 
 ## 📌 Key Performance Indicators (KPIs)
-• Total Revenue: ₹4.59M
-• Total Orders: 21K
-• Average Order Value: ₹215.37
-• Total Pizzas Sold: 273K
-• Average Pizzas per Order: 12.77
+• Total Revenue: ₹4.59M<br>
+• Total Orders: 21K<br>
+• Average Order Value: ₹215.37<br>
+• Total Pizzas Sold: 273K<br>
+• Average Pizzas per Order: 12.77<br>
 	
 ## 💡 Key Insights from the Dashboard
-• Top 3 Best-Selling Pizzas:
-  ○ Vegetables, Thai Chicken, Spinach Supreme
-• Highest Sales Time: Afternoon
-• Most Ordered Day: Friday
-• Top Performing Pizza Size: Large (39.45% of pizzas sold)
-•Most Used Ingredient: Spinach
-•Pizza Category with Highest Revenue: Veggie
+• Top 3 Best-Selling Pizzas:<br>
+  ○ Vegetables, Thai Chicken, Spinach Supreme<br>
+• Highest Sales Time: Afternoon<br>
+• Most Ordered Day: Friday<br>
+• Top Performing Pizza Size: Large (39.45% of pizzas sold)<br>
+•Most Used Ingredient: Spinach<br>
+•Pizza Category with Highest Revenue: Veggie<br>
 
 ## 🧰 Technologies Used
 ✔ **Power BI **– Data visualization and dashboard creation<br>
