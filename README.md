@@ -3,35 +3,35 @@
 This Power BI dashboard project analyzes a fictional pizza sales dataset to uncover trends, performance insights, and revenue drivers. The interactive dashboard offers clear, data-driven insights for decision-making, helping stakeholders understand customer behavior, top-performing pizzas, and sales patterns.
 
 ## 🎯 Objective
-	• To visualize and analyze pizza sales trends, customer order behavior, and ingredient usage.
-	• To identify best-selling pizzas, optimal order times, and pricing strategies.
-	• To build a multi-page connected Power BI dashboard with visually engaging and business-relevant insights.
+• To visualize and analyze pizza sales trends, customer order behavior, and ingredient usage.
+• To identify best-selling pizzas, optimal order times, and pricing strategies.
+• To build a multi-page connected Power BI dashboard with visually engaging and business-relevant insights.
 
 ## 📂 About the Dataset
 The dataset contains pizza sales data and includes:
-	• Order details, pizza names, and pricing information
-	• Pizza sizes, categories, and ingredients used
-	• Quantity sold, revenue generated, and time-based trends (date & time)
+• Order details, pizza names, and pricing information
+• Pizza sizes, categories, and ingredients used
+• Quantity sold, revenue generated, and time-based trends (date & time)
 
 ## 🔍 Recommended Analysis
-• How has the total revenue trended over time?
-✅ Revenue steadily increased month-over-month with weekends showing higher peaks.
-• Which pizzas are top and bottom performers?
-✅ Pizzas like Pepperoni and BBQ Chicken lead in sales, while Brie Carre and Spinach Supreme are the least ordered.
-• What time of day sees the most orders?
-✅ Evening hours dominate with the highest order volume, followed by afternoon spikes.
-• Which pizza sizes contribute most to revenue?
-✅ Large and Extra-Large sizes drive the highest revenue, combining volume and pricing impact.
-• What is the most preferred pizza category?
-✅ Classic and Chicken categories account for the majority of total sales.
-• How do order patterns vary across weekdays?
-✅ Peak ordering happens on weekends, especially Friday and Saturday evenings.
-• Which ingredients appear most frequently?
-✅ Mozzarella, Tomato Sauce, and Pepperoni are the most used ingredients across the menu.
-• How does pricing affect pizza performance?
-✅ Mid-range priced pizzas offer the best balance between sales volume and revenue generation.
-• What insights can be drawn from ingredient sales contribution?
-✅ Pizzas with Cheese and Meat ingredients contribute more to total revenue than veggie-based options.
+• How has the total revenue trended over time?<br>
+✅ Revenue steadily increased month-over-month with weekends showing higher peaks.<br>
+• Which pizzas are top and bottom performers?<br>
+✅ Pizzas like Pepperoni and BBQ Chicken lead in sales, while Brie Carre and Spinach Supreme are the least ordered.<br>
+• What time of day sees the most orders?<br>
+✅ Evening hours dominate with the highest order volume, followed by afternoon spikes.<br>
+• Which pizza sizes contribute most to revenue?<br>
+✅ Large and Extra-Large sizes drive the highest revenue, combining volume and pricing impact.<br>
+• What is the most preferred pizza category?<br>
+✅ Classic and Chicken categories account for the majority of total sales.<br>
+• How do order patterns vary across weekdays?<br>
+✅ Peak ordering happens on weekends, especially Friday and Saturday evenings.<br>
+• Which ingredients appear most frequently?<br>
+✅ Mozzarella, Tomato Sauce, and Pepperoni are the most used ingredients across the menu.<br>
+• How does pricing affect pizza performance?<br>
+✅ Mid-range priced pizzas offer the best balance between sales volume and revenue generation.<br>
+• What insights can be drawn from ingredient sales contribution?<br>
+✅ Pizzas with Cheese and Meat ingredients contribute more to total revenue than veggie-based options.<br>
 
 ## 📊 DASHBOARDS
 ![Image 1](https://github.com/user-attachments/assets/acdb5599-543b-4e82-a655-292be07f03ae)
@@ -41,25 +41,25 @@ The dataset contains pizza sales data and includes:
 ![Image 3](https://github.com/user-attachments/assets/ea489902-6153-4cbf-8e30-af06869476d9)
 
 ## 📌 Key Performance Indicators (KPIs)
-	• Total Revenue: ₹4.59M
-	• Total Orders: 21K
-	• Average Order Value: ₹215.37
-	• Total Pizzas Sold: 273K
-	• Average Pizzas per Order: 12.77
+• Total Revenue: ₹4.59M
+• Total Orders: 21K
+• Average Order Value: ₹215.37
+• Total Pizzas Sold: 273K
+• Average Pizzas per Order: 12.77
 	
 ## 💡 Key Insights from the Dashboard
-	• Top 3 Best-Selling Pizzas:
-		○ Vegetables, Thai Chicken, Spinach Supreme
-	• Highest Sales Time: Afternoon
-	• Most Ordered Day: Friday
-	• Top Performing Pizza Size: Large (39.45% of pizzas sold)
-	• Most Used Ingredient: Spinach
-	• Pizza Category with Highest Revenue: Veggie
+• Top 3 Best-Selling Pizzas:
+  ○ Vegetables, Thai Chicken, Spinach Supreme
+• Highest Sales Time: Afternoon
+• Most Ordered Day: Friday
+• Top Performing Pizza Size: Large (39.45% of pizzas sold)
+•Most Used Ingredient: Spinach
+•Pizza Category with Highest Revenue: Veggie
 
 ## 🧰 Technologies Used
-✔ **Power BI **– Data visualization and dashboard creation
-✔ ** DAX (Data Analysis Expressions) **– Used for calculated measures
-✔ **Excel/CSV ** – Data storage and preprocessing
+✔ **Power BI **– Data visualization and dashboard creation<br>
+✔ ** DAX (Data Analysis Expressions) **– Used for calculated measures<br>
+✔ **Excel/CSV ** – Data storage and preprocessing<br>
 
 ## 📍 Conclusion
 This project effectively demonstrates how Power BI can turn raw data into actionable business intelligence. With well-structured KPIs, trend visualizations, and category breakdowns, the dashboard supports strategic planning in the food and beverage industry.
